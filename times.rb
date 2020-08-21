@@ -1,8 +1,8 @@
 def using_times
-  phrase = 0
+  time = 0
   until phrase == 7
-  phrase += 1
-  phrase = "Wingardium Leviosa"
+  time += 1
+  time = "Wingardium Leviosa"
   puts times
   puts "Wingardium Leviosa"
 end
