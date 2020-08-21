@@ -1,7 +1,8 @@
 def using_times
-	#your code here
+  times = 0
+  until times == 7
+  times += 1
+  puts using_times
+  puts "Wingardium Leviosa"
 end
-
-
-
-
+end
